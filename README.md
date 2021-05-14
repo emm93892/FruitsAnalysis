@@ -9,7 +9,7 @@ LineBotを使った果物の画像判定システム
 使用したもの↓  
 https://github.com/emm93892/FruitsAnalysis/blob/master/requirements.txt
 
-友人4人と作成、開発期間2ヶ月  
+友人と2人で作成、開発期間2ヶ月  
 2020年の春学期のb3の成果物として作成したが、サークル内の発表会がb2のみになって、発表する機会が無くなってしまった  
 herokuを用いて友人内で公開
 
